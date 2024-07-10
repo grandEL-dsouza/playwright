@@ -1,0 +1,12 @@
+userName: rocky_DNajWq
+accessKey: V3xKscCz8xNrjWivZxH6
+buildName: browserstack-run
+buildIdentifier: ${BUILD_NUMBER}
+platforms:
+  - deviceName: Samsung Galaxy S23 Ultra
+    browserName: chrome
+    osVersion: 13.0
+parallelsPerPlatform: 8
+debug: false
+networkLogs: false
+consoleLogs: errors
